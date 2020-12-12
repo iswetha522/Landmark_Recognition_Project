@@ -7,6 +7,7 @@
 This project mainly focus on finding the landmark of an image. Used two ways to predict the model.
 - Without Transfer Learning
 - With Transfer Learning
+  
 Compared which model gives more accuracy and then used that for predicting the test dataset. 
 
 ## Overview
@@ -15,6 +16,7 @@ Downloaded the data from Google Landmark Recognition from kaggle. After getting 
 The project used two ways to build the model:
 - Used ResNet50 the pre - trained model as the base layer so that the model can get some pre - trained weights 
 - Used Neural Network with random weights.
+  
 Trained with both the models and compared the loss and accuracy score. Once the accuracy score is statisfied started predicting the test set from the most accuracy scored model.
 
 ## Presentation 
