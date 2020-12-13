@@ -33,22 +33,13 @@ Landmark Recognition Project Presentation PDF [Landmark Recognition Project PDF]
   
 ## Libraries used
 
-- from tensorflow.python.keras.models import Sequential
-- from tensorflow.python.keras.layers import Dense
-- from keras.applications.resnet50 import ResNet50
-- from tensorflow.keras import layers
-- from urllib.request import urlopen
-- from io import BytesIO
-- from PIL import Image
 - matplotlib
 - tensorflow
-- traceback
 - seaborn
-- pathlib
 - pandas
 - numpy
 - keras
-- os
+
 
 
 
